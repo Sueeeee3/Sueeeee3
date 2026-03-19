@@ -10,7 +10,7 @@ _Big generative ai hater!!_
 
 <h2>Play now!</h2>
 <a href="https://sueeeee3.itch.io/the-worst-fishing-game-ever">
-  <img src="https://github.com/user-attachments/assets/dd35b8cb-bc2c-4e11-9b56-96eb78cbbe71" width="20%">
+  <img src="https://github.com/user-attachments/assets/84b12b8d-58a4-46dc-844d-cd9b0e5773bc" width="30%">
 </a>
 
 <br/>
